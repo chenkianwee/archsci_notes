@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: docs/intro
+parts:
+- caption: Notes
+  numbered: True
+  chapters:
+  - file: docs/pg01
+- caption: References
+  numbered: true
+  chapters:
+    - file: docs/biblio
